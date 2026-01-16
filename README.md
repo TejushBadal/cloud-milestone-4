@@ -6,7 +6,7 @@
 * Configure Pub/Sub Subscription(s) to filter the receiving messages.
 
 ## Repository:
-[https://github.com/GeorgeDaoud3/SOFE4630U-MS4](https://github.com/GeorgeDaoud3/SOFE4630U-MS4)
+[https://github.com/MohammadYasserZaki/SOFE4630U-MS4](https://github.com/MohammadYasserZaki/SOFE4630U-MS4)
 
 ## Introduction 
 
@@ -385,3 +385,6 @@ Compare the advantages and disadvantages of using Dataflow vs microservices in p
 * An audible video of about 4 minutes showing the deployment and execution of the voting system.
 * An audible video of about 4 minutes showing the deployment and execution of the design part.
 * The scripts of the design part.
+
+## Acknowledgements
+This repository is a fork of [GeorgeDaoud3/SOFE4630U-MS4](https://github.com/GeorgeDaoud3/SOFE4630U-MS4) . Credit to the original author for the initial implementation.
