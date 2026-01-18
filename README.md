@@ -359,7 +359,7 @@ The output would be similar to
 
 ## Design
 
-In milestone 2, you designed a Dataflow job to preprocess the smart meter measurements. In this milestone, you will implement the same preprocessing but using microservices communicating using a single Google Pub/sub-topic.
+Previously, you designed a Dataflow job to preprocess the smart meter measurements. In this milestone, you will implement the same preprocessing but using microservices communicating using a single Google Pub/sub-topic.
 
 The list of microservices are
 1. FilterReading: Eliminate records with missing measurements (containing None).
@@ -379,12 +379,13 @@ Also, a [BigQuerry subscription](https://cloud.google.com/pubsub/docs/bigquery) 
 
 Compare the advantages and disadvantages of using Dataflow vs microservices in preprocessing the smart reading.
 
-## Deliverables:
 
-* A report that includes the discussion part. It should also describe the design part and the steps to deploy and execute it.
-* An audible video of about 4 minutes showing the deployment and execution of the voting system.
-* An audible video of about 4 minutes showing the deployment and execution of the design part.
-* The scripts of the design part.
+## Deliverables
+A report that includes the following:
+1. A GitHub link to the scripts used in the Design part.
+2. the discussion and the design parts.
+3. A Link to an audible video of about 3 minutes showing the voting system. 
+4. A Link to another audible video of about 5 minutes showing the design part. 
 
 ## Acknowledgements
 This repository is a fork of [GeorgeDaoud3/SOFE4630U-MS4](https://github.com/GeorgeDaoud3/SOFE4630U-MS4) . Credit to the original author for the initial implementation.
