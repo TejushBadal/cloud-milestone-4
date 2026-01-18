@@ -369,7 +369,7 @@ The list of microservices are
 
 𝑇(𝐹) = 𝑇(𝐶)∗1.8+32
 
-Also, a [BigQuerry subscription](https://cloud.google.com/pubsub/docs/bigquery) (similar to Kafka Connector) should be implemented to store the results in a bigQuerry Table automatically.
+Also, a [BigQuerry subscription](https://cloud.google.com/pubsub/docs/bigquery)  should be implemented to store the results in a bigQuerry Table automatically.
 
 **Note**: the microservices in the design part is simpler than those in the voting system as they need no datastorage
 
